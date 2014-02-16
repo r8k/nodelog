@@ -11,6 +11,6 @@ log.info('Server started at PORT: 3000');
 ````
 
 Output
-````
+```js
 [Fri Mar 08 2013 22:36:48] INFO: Server started at PORT: 3000
 ````
