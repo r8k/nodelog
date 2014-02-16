@@ -51,4 +51,4 @@ Logger.prototype = {
     }
 }
 
-exports.Logger = Logger;
+module.exports = exports = Logger;
