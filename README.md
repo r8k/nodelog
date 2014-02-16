@@ -4,10 +4,10 @@ nodelog
 Simple logger for using with NodeJs
 
 Usage
-````
-log = require("./logger");
-this.log = new log.Logger();
-this.log.info('Server started at PORT: 3000');
+```js
+var Logger = require("./logger");
+var log = new Logger();
+log.info('Server started at PORT: 3000');
 ````
 
 Output
